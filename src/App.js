@@ -1,10 +1,11 @@
 import React from 'react';
-import WorldMap from './Components/Map';
+import Root from './Components/Root';
+import './Style/global.css';
 
 function App() {
   return (
     <div className="App">
-      <WorldMap></WorldMap>
+      <Root></Root>
     </div>
   );
 }

@@ -1,0 +1,6 @@
+.cardFormContainer {
+  position: absolute;
+  top: 7px;
+  right: 7px;
+  z-index: 999;
+}
